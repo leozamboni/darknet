@@ -15,8 +15,8 @@ opencv/
 convnet/
 decaf/
 submission/
-cfg/
-darknet
+# cfg/
+# darknet
 .fuse*
 
 # OS Generated #
